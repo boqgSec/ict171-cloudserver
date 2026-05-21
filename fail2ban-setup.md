@@ -29,7 +29,7 @@ sudo systemctl status fail2ban
 ```
 
 output:
-```text
+```
 active (running)
 ```
 
