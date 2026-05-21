@@ -70,7 +70,7 @@ logpath = %(sshd_log)s
 
 ### Configuration Explanation
 
-| Setting | Purpose |
+Setting | Purpose 
 |---|---|
 bantime | Bans IP addresses for 1 hour 
 findtime | Monitors failed attempts within 10 minutes 
