@@ -50,3 +50,32 @@ sudo nano /etc/fail2ban/jail.local
 ```
 
 ---
+
+## Configure Fail2Ban
+
+Paste the following configuration into `jail.local`.
+
+```ini
+[DEFAULT]
+bantime = 1h
+findtime = 10m
+maxretry = 5
+backend = systemd
+
+[sshd]
+enabled = true
+port = ssh
+logpath = %(sshd_log)s
+```
+
+### Configuration Explanation
+
+| Setting | Purpose |
+|---|---|
+| bantime | Bans IP addresses for 1 hour |
+| findtime | Monitors failed attempts within 10 minutes |
+| maxretry | Bans after 5 failed login attempts |
+| backend | Uses systemd logs |
+| sshd | Protects SSH service |
+
+---
