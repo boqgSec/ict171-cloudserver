@@ -2,7 +2,7 @@
 
 ## Update the Server
 
-First, ensure all packages are up to date before installing Fail2Ban.
+First, ensure all packages are up to date before installing Fail2Ban
 
 ```bash
 sudo apt update
