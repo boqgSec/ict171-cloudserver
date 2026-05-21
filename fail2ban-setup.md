@@ -20,6 +20,21 @@ sudo apt install fail2ban -y
 
 ---
 
+# Check Fail2Ban status
+
+Verifying that Fail2Ban service is running properly
+
+```
+sudo systemctl status fail2ban
+```
+
+output:
+```text
+active (running)
+```
+
+
+---
 
 
 
