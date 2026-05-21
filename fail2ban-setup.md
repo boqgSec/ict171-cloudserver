@@ -79,3 +79,13 @@ logpath = %(sshd_log)s
 | sshd | Protects SSH service |
 
 ---
+
+# Now restart Fail2ban
+
+Apply the config changes
+
+```
+sudo systemctl restart fail2ban
+```
+
+---
