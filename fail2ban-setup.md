@@ -1,12 +1,14 @@
-# fail2ban-setup.md
+# Configuring Fail2Ban
 
+## Update the Server
 
+First, ensure all packages are up to date before installing Fail2Ban.
 
-# Make sure software is up-to-date preparing for fail2ban install
+```bash
 sudo apt update
+```
 
-
-
+---
 # Now we are going to install fail2ban
 sudo apt install fail2ban -y
 
