@@ -4,7 +4,7 @@
 
 First, ensure all packages are up to date before installing Fail2Ban
 
-```bash
+```
 sudo apt update
 ```
 
@@ -14,7 +14,7 @@ sudo apt update
 
 Now, install Fail2Ban using apt
 
-```bash
+```
 sudo apt install fail2ban -y
 ```
 
