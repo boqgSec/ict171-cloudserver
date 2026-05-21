@@ -72,11 +72,11 @@ logpath = %(sshd_log)s
 
 | Setting | Purpose |
 |---|---|
-| bantime | Bans IP addresses for 1 hour |
-| findtime | Monitors failed attempts within 10 minutes |
-| maxretry | Bans after 5 failed login attempts |
-| backend | Uses systemd logs |
-| sshd | Protects SSH service |
+bantime | Bans IP addresses for 1 hour 
+findtime | Monitors failed attempts within 10 minutes 
+maxretry | Bans after 5 failed login attempts 
+backend | Uses systemd logs 
+sshd | Protects SSH service 
 
 ---
 
