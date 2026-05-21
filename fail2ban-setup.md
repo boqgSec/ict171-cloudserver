@@ -14,11 +14,11 @@ sudo apt update
 
 Now, install Fail2Ban using apt
 
-'''bash
+```bash
 sudo apt install fail2ban -y
-'''
+```
 
-'''
+---
 
 
 
