@@ -97,6 +97,7 @@ Check Fail2Ban is active
 ```
 sudo fail2ban-client status
 ```
+<img width="585" height="74" alt="image" src="https://github.com/user-attachments/assets/701cd4c6-e04d-4749-a1fe-69d56c97825a" />
 
 Output: 
 
