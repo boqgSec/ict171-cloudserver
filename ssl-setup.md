@@ -67,6 +67,10 @@ You'll see a successful certificate, top left of the browser.
 
 
 ## Benefits
+- Encrypts and protects sensitive information from Cyber Attacks
+- Can build trust with users who use the site
+- More Encryption, and more Privacy
+- Prevents browser security warnings
 
 ## Used softwares
 - Ubuntu 24.04.4 LTS
