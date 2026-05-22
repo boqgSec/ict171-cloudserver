@@ -3,6 +3,7 @@
 ## Information
 
 | Details | Info |
-Name | Joshua Green
-Student ID | 35718094
+| Name | Joshua Green | 
+| Student ID | 35718094 |
+
 
