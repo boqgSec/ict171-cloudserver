@@ -82,7 +82,7 @@ sshd | Protects SSH service
 
 # Now restart Fail2ban
 
-Apply the config changes
+###Apply the config changes
 
 ```
 sudo systemctl restart fail2ban
