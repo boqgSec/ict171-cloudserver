@@ -69,3 +69,10 @@ You'll see a successful certificate, top left of the browser.
 ## Benefits
 
 ## Used softwares
+- Ubuntu 24.04.4 LTS
+- Nginx
+- Certbot
+- Let's Encrypt
+- Microsoft Azure
+
+---
