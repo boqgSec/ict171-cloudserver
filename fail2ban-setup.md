@@ -117,6 +117,9 @@ This command displays:
 - failed login attempts
 - total banned IP count
 
+<img width="677" height="186" alt="image" src="https://github.com/user-attachments/assets/f1d92fa5-6c9a-4d4f-b7dc-0e1cda7b20c4" />
+
+
 ---
 
 
