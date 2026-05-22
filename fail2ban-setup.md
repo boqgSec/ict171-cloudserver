@@ -68,7 +68,7 @@ port = ssh
 logpath = %(sshd_log)s
 ```
 
-### Configuration Explanation
+# Configuration Explanation
 
 Setting | Purpose 
 |---|---|
@@ -89,3 +89,6 @@ sudo systemctl restart fail2ban
 ```
 
 ---
+
+
+#
