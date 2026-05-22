@@ -107,7 +107,19 @@ Jail list: sshd
 
 ---
 
-# Check SSH 
+# Check SSH Jail2Ban status
+
+```
+sudo fail2ban-client status sshd
+```
+This command displays:
+- currently banned IP addresses
+- failed login attempts
+- total banned IP count
+
+---
+
+
 
 
 
