@@ -11,7 +11,7 @@ sudo ufw enable
 
 ---
 
-# Then check the status
+# Verify Firewall Status
 
 ```
 sudo ufw status
@@ -23,5 +23,6 @@ sudo ufw status
 
 
 Key Features:
-- Hardens the server and strengths the protections
-- 
+- Hardens the server and strengthens the protections
+- Improves overall network security
+- Will restrict unnecessary incoming traffic
