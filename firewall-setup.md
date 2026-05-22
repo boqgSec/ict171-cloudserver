@@ -15,7 +15,6 @@ sudo ufw enable
 
 ```
 sudo ufw status
-
 ```
 
 <img width="527" height="212" alt="image" src="https://github.com/user-attachments/assets/cc7803b7-611b-4335-9d6d-cf7e0c44aa59" />
