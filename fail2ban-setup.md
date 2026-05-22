@@ -82,13 +82,33 @@ sshd | Protects SSH service
 
 # Now restart Fail2ban
 
-###Apply the config changes
+Apply the config changes
 
 ```
 sudo systemctl restart fail2ban
 ```
 
 ---
+
+# Make sure the protection is now active
+
+Check Fail2Ban is active
+
+'''
+sudo fail2ban-client status
+'''
+
+Output: 
+
+'''
+Jail list: sshd
+'''
+
+---
+
+# Check SSH 
+
+
 
 
 #
