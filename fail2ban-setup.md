@@ -94,15 +94,15 @@ sudo systemctl restart fail2ban
 
 Check Fail2Ban is active
 
-'''
+```
 sudo fail2ban-client status
-'''
+```
 
 Output: 
 
-'''
+```
 Jail list: sshd
-'''
+```
 
 ---
 
