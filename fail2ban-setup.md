@@ -119,8 +119,15 @@ This command displays:
 
 <img width="677" height="186" alt="image" src="https://github.com/user-attachments/assets/f1d92fa5-6c9a-4d4f-b7dc-0e1cda7b20c4" />
 
-
 ---
+
+# Security Benefits
+
+Fail2ban improves security by:
+- it Monitors failed SSH login attempts
+- Will instantly ban suspicious IP addresses
+- Will improve the overall quality/strength of the server
+- Reduces brute-force attacks
 
 
 
