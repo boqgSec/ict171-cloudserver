@@ -15,12 +15,8 @@ Locate DNS records and create new A records.
 
 
 | Type | Host | Value |
-| ---- | ---- | --- |
+| --- | --- | --- |
 | A    | @    | Azure IP |
 | A    | www  | Azure IP |
-
-
-
-
 
 ---
