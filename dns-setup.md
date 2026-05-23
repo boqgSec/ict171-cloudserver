@@ -2,10 +2,9 @@
 
 ## Purchase a Domain 
 
-```
 A custom domain can be bought through a domain registrar.
 After a successful purchase, we can now configure the domain.
-```
+
 
 ---
 
