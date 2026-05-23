@@ -34,6 +34,9 @@ https://dnschecker.org
 
 # Ping server
 This command verifies that the domain is connected to the correct Azure server IP
+```
+ping joshcyber.cc
+```
 
 
 <img width="560" height="42" alt="image" src="https://github.com/user-attachments/assets/8503dd9f-1d6e-4a7b-a5e8-da8c077c77bc" />
