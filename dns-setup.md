@@ -14,10 +14,10 @@ After a successful purchase, we can now configure the domain.
 Locate DNS records and create new A records.
 
 
-| Type | Host | Value         |
-| ---- | ---- | ------------- |
-| A    | @    | 52.184.82.227 |
-| A    | www  | 52.184.82.227 |
+| Type | Host | Value |
+| ---- | ---- | --- |
+| A    | @    | Azure IP |
+| A    | www  | Azure IP |
 
 
 
