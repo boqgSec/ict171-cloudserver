@@ -15,14 +15,14 @@ Locate DNS records and create new A records.
 
 | Type | Host | Value |
 | --- | --- | --- |
-| A    | @    | Azure IP |
-| A    | www  | Azure IP |
+| A    | @    | 52.184.82.227 |
+| A    | www  | 52.184.82.227 |
 
 ---
 
 # Save changes and verify
 
-DNS saves may take a couple of seconds to hours to work, depending on the provider.
+DNS propagation may take anywhere from a couple of seconds to hours, depending on the provider.
 
 Verify the DNS is working using 
 
@@ -32,7 +32,7 @@ https://dnschecker.org
 
 ---
 
-# Ping server
+# Verify Domain
 This command verifies that the domain is connected to the correct Azure server IP
 ```
 ping joshcyber.cc
