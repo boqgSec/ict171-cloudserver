@@ -22,12 +22,14 @@ This project involves configuring and securing a cloud-hosted Ubuntu server usin
 
 ## Documentation
 
-Azure VM Setup	docs/azure-vm-setup.md
-DNS Setup	docs/dns-setup.md
-SSL Setup	docs/ssl-setup.md
-Firewall Setup	docs/firewall-setup.md
-Fail2Ban Setup	docs/fail2ban-setup.md
-Monitoring Script	docs/scripts.md
+| Documentation | Link |
+|---|---|
+| Azure VM Setup | [View](docs/azure-vm-setup.md) |
+| DNS Setup | [View](docs/dns-setup.md) |
+| SSL Setup | [View](docs/ssl-setup.md) |
+| Firewall Setup | [View](docs/firewall-setup.md) |
+| Fail2Ban Setup | [View](docs/fail2ban-setup.md) |
+| Monitoring Script | [View](docs/scripts.md) |
 
 ## Video Explainer
 
