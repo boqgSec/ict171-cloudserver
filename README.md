@@ -7,11 +7,11 @@
 Name | Joshua Green 
 Student ID | 35718094 
 
-# Project Overview
+## Project Overview
 
 This project involves configuring and securing a cloud-hosted Ubuntu server using Microsoft Azure Infrastructure as a Service (IaaS). The purpose of this project is to showcase my practical skills on a Linux server, including administering, scripting, troubleshooting, hardening my webpage using cybersecurity, and managing cloud infrastructure.
  
-# Features:
+## Features:
 - Ubuntu Server 24.02 LTS
 - Nginx Web Server
 - Custom domain using NameCheap
@@ -20,6 +20,14 @@ This project involves configuring and securing a cloud-hosted Ubuntu server usin
 - UFW Firewall
 - Monitoring Script
 
+## Documentation
 
-# Video Explainer
+Azure VM Setup	docs/azure-vm-setup.md
+DNS Setup	docs/dns-setup.md
+SSL Setup	docs/ssl-setup.md
+Firewall Setup	docs/firewall-setup.md
+Fail2Ban Setup	docs/fail2ban-setup.md
+Monitoring Script	docs/scripts.md
+
+## Video Explainer
 
