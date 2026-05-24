@@ -31,5 +31,9 @@ This project involves configuring and securing a cloud-hosted Ubuntu server usin
 | Fail2Ban Setup | [View](fail2ban-setup.md) |
 | Monitoring Script | [View](scripts.md) |
 
+## Website
+
+https://joshcyber.cc
+
 ## Video Explainer
 
