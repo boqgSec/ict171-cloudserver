@@ -29,7 +29,7 @@ This project involves configuring and securing a cloud-hosted Ubuntu server usin
 | SSL Setup | [View](docs/ssl-setup.md) |
 | Firewall Setup | [View](docs/firewall-setup.md) |
 | Fail2Ban Setup | [View](docs/fail2ban-setup.md) |
-| Monitoring Script | [View](docs/scripts.md) |
+| Monitoring Script [View](scripts.md) 
 
 ## Video Explainer
 
