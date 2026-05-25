@@ -59,7 +59,7 @@ sudo apt install nginx -y
 
 ---
 
-# Verify if the Nginx runs
+## Verify if the Nginx runs
 ```
 sudo systemctl status nginx
 ```
@@ -67,5 +67,16 @@ You'll see the ```active: running```
 
 <img width="1022" height="274" alt="image" src="https://github.com/user-attachments/assets/faa3ccbb-38b1-4adb-8c50-c53b85981fb5" />
 ---
+
+## Verify the website works
+
+Connect to your Public IP
+```
+http://52.184.82.227
+```
+<img width="1058" height="431" alt="image" src="https://github.com/user-attachments/assets/8aa767ec-5529-4a7c-a3f2-463a7d78703d" />
+
+---
+
 
 
