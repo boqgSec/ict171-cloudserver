@@ -36,4 +36,5 @@ This virtual machine hosts an Nginx web server, a domain, an SSL certificate, an
 ## Connect to your server using SSH
 
 ```ssh -i <private-key-file-path> azureuser@52.184.82.227```
-  ``  input ur .pem file location here
+---
+    input ur .pem file location here
