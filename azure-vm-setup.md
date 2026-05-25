@@ -23,3 +23,11 @@ This virtual machine hosts an Nginx web server, a domain, an SSL certificate, an
 ## Download SSH Key Pair
 
 ```ict171-cloud_key.pem```
+
+## Configure Inbound Rules
+
+| Port | Protocol | Purpose           |
+| ---- | -------- | ----------------- |
+| 22   | TCP      | SSH Remote Access |
+| 80   | TCP      | HTTP Web Traffic  |
+| 443  | TCP      | HTTPS SSL Traffic |
