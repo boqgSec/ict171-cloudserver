@@ -19,3 +19,7 @@ This virtual machine hosts an Nginx web server, a domain, an SSL certificate, an
 | Size                 | Standard B1s            |
 | Authentication Type  | SSH Public Key          |
 | Username             | azureuser               |
+
+## Download SSH Key Pair
+
+```ict171-cloud_key.pem```
