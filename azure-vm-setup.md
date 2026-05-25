@@ -79,18 +79,18 @@ http://52.184.82.227
 ---
 
 # Benefits of Azure VM 
-Cost Efficiency 
-Secure SSH Access
-Remote server 
-Improved security
-Reduced latency
+- Cost Efficiency 
+- Secure SSH Access
+- Remote server 
+- Improved security
+- Reduced latency
 
 
 # Used Software
-Microsoft Azure
-Ubuntu Server 24.04 LTS
-OpenSSH
-Nginx Web Server
+- Microsoft Azure
+- Ubuntu Server 24.04 LTS
+- OpenSSH
+- Nginx Web Server
 
 # Summary
 
