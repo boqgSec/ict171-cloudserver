@@ -39,4 +39,7 @@ This virtual machine hosts an Nginx web server, a domain, an SSL certificate, an
 
 input ur .pem file location in the private key file path
 
+<img width="941" height="452" alt="image" src="https://github.com/user-attachments/assets/767b2e3b-26f9-44d8-bf6b-722e7d1ee631" />
+
+
 ---
