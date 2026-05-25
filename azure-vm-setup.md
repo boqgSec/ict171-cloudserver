@@ -1,12 +1,12 @@
 # Azure VM Setup
 
-This guide will help set up and deploymnent of Microsoft Azure, using Ubuntu 24.04 LTS
+This guide will help set up and deploy Microsoft Azure, using Ubuntu 24.04 LTS
 
 This virtual machine hosts an Nginx web server, a domain, an SSL certificate, and a firewall.
 
 ## Create the Virtual machine
 
-Create a resource > find Virtual Machine
+```Create a resource > find Virtual Machine```
 
 ## Configuration of the Virtual Machine
 
