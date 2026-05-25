@@ -31,3 +31,8 @@ This virtual machine hosts an Nginx web server, a domain, an SSL certificate, an
 | 22   | TCP      | SSH Remote Access |
 | 80   | TCP      | HTTP Web Traffic  |
 | 443  | TCP      | HTTPS SSL Traffic |
+
+
+## Connect to your server using SSH
+
+```ssh -i <private-key-file-path> azureuser@52.184.82.227```
