@@ -41,5 +41,29 @@ input ur .pem file location in the private key file path
 
 <img width="941" height="452" alt="image" src="https://github.com/user-attachments/assets/767b2e3b-26f9-44d8-bf6b-722e7d1ee631" />
 
+---
+
+## Update the server
+
+```
+sudo apt update
+sudo apt updat -y
+```
 
 ---
+
+## Install Nginx web server
+```
+sudo apt install nginx -y
+```
+
+---
+
+# Verify if the Nginx runs
+```
+sudo systemctl status nginx
+```
+<img width="1022" height="274" alt="image" src="https://github.com/user-attachments/assets/faa3ccbb-38b1-4adb-8c50-c53b85981fb5" />
+---
+
+
