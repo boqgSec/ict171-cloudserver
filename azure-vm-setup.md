@@ -63,6 +63,7 @@ sudo apt install nginx -y
 ```
 sudo systemctl status nginx
 ```
+You'll see the ```active: running```
 <img width="1022" height="274" alt="image" src="https://github.com/user-attachments/assets/faa3ccbb-38b1-4adb-8c50-c53b85981fb5" />
 ---
 
