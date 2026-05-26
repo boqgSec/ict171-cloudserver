@@ -18,6 +18,8 @@ Locate DNS records and create new A records.
 | A    | @    | 52.184.82.227 |
 | A    | www  | 52.184.82.227 |
 
+<img width="1001" height="193" alt="image" src="https://github.com/user-attachments/assets/695de59e-7fda-49d6-bbd3-e50fd4c44845" />
+
 ---
 
 # Save changes and verify
