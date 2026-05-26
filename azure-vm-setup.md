@@ -32,6 +32,8 @@ This virtual machine hosts an Nginx web server, a domain, an SSL certificate, an
 | 80   | TCP      | HTTP Web Traffic  |
 | 443  | TCP      | HTTPS SSL Traffic |
 
+<img width="454" height="131" alt="image" src="https://github.com/user-attachments/assets/7e47048f-8159-4f32-b6cf-79fb6470f7a2" />
+
 
 ## Connect to your server using SSH
 
