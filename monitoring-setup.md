@@ -10,7 +10,7 @@ Then create your script
 ```
 #!/bin/bash
 
-echo " SERVER MONITOR "
+echo "SERVER MONITOR"
 echo "Date: $(date)"
 
 echo "Uptime: $(uptime -p)"
