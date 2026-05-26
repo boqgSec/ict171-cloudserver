@@ -44,7 +44,10 @@ chmod +x server-monitor.sh
 ```
 ---
 
+## Run the script
 ```
 ./server-monitor.sh
 ```
+<img width="760" height="319" alt="image" src="https://github.com/user-attachments/assets/129db60c-24c1-4010-b529-afcc7838320e" />
+
 ---
