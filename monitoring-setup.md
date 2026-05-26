@@ -36,3 +36,10 @@ grep "Failed password" /var/log/auth.log | tail
 ```
 
 ---
+
+
+## Give permission
+```
+chmod +x server-monitor.sh
+```
+---
