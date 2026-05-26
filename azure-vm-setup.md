@@ -47,7 +47,7 @@ input ur .pem file location in the private key file path
 
 ```
 sudo apt update
-sudo apt updat -y
+sudo apt update -y
 ```
 
 ---
@@ -94,5 +94,5 @@ http://52.184.82.227
 
 # Summary
 
-
+Successfully deploy a Microsoft Azure virtual machine using Ubuntu 24.04 LTS, the server was connected securely using SSH, and then configured to use Nginx host web services.
 
