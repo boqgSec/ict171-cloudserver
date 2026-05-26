@@ -43,3 +43,8 @@ grep "Failed password" /var/log/auth.log | tail
 chmod +x server-monitor.sh
 ```
 ---
+
+```
+./server-monitor.sh
+```
+---
