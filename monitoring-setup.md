@@ -8,32 +8,31 @@ nano server-monitor.sh
 Then create your script
 
 ```
-#!bin/bash
-echo "         Server Monitor        "
+#!/bin/bash
+
+echo "--- SERVER MONITOR ---"
+echo "Date: $(date)"
+
+echo "Uptime: $(uptime -p)"
 
 echo ""
-echo "date and time:"
-date
+echo "Memory:"
+
+free -h | grep Mem
 
 echo ""
-echo "server uptime:"
-uptime
+echo "Disk:"
+
+df -h | grep '^/'
 
 echo ""
-echo "memory usage:"
-free -h
-
-echo ""
-echo "disk usage:"
-df -h
-
-echo ""
-echo "current logged in users:"
+echo "Users:"
 who
 
-echo""
-echo"failed ssh login attempts:"
-grep "failed password" /var/log/auth.log | tail
+echo ""
+echo "Failed SSH Attempts:"
+grep "Failed password" /var/log/auth.log | tail
+
 ```
 
 ---
