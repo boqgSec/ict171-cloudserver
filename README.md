@@ -37,3 +37,6 @@ https://joshcyber.cc
 
 ## Video Explainer
 
+## Conclusion Summary
+This project showcases a fully deployed, secure cloud server with a documented setup and a properly secured webpage.
+
