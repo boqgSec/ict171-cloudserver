@@ -36,9 +36,9 @@ This project involves configuring and securing a cloud-hosted Ubuntu server usin
 https://joshcyber.cc
 
 ## Video Explainer
-```
+
 [![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=0eTPYg0Dwls)
-```
+
 ---
 
 ## Conclusion Summary
