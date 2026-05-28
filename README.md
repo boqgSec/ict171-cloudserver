@@ -37,9 +37,7 @@ https://joshcyber.cc
 
 ## Video Explainer
 
-[![Video!]
-]
-(https://www.youtube.com/watch?v=0eTPYg0Dwls)
+[![Watch the video](https://img.youtube.com/vi/0eTPYg0Dwls/0.jpg)](https://www.youtube.com/watch?v=0eTPYg0Dwls)
 
 ---
 
