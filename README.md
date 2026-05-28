@@ -36,7 +36,12 @@ This project involves configuring and securing a cloud-hosted Ubuntu server usin
 https://joshcyber.cc
 
 ## Video Explainer
+```
+https://www.youtube.com/watch?v=0eTPYg0Dwls
+```
+---
 
 ## Conclusion Summary
 This project showcases a fully deployed, secure cloud server with a documented setup and a properly secured webpage.
 
+---
