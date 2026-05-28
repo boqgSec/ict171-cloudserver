@@ -37,7 +37,7 @@ https://joshcyber.cc
 
 ## Video Explainer
 ```
-https://www.youtube.com/watch?v=0eTPYg0Dwls
+[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=0eTPYg0Dwls)
 ```
 ---
 
